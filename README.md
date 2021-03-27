@@ -6,22 +6,21 @@ ML - imabalanced-learn and scikit-learn
 # Results
 
 ### Oversampling
-![Oversampling]()
+![Oversampling](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/Random_Oversampling.png)
 
 ### Undersampling
-![Undersampling]()
+![Undersampling](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png)
 
 ### SMOTE Oversampling
-![Smote]()
+![Smote](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.png)
 
 ### SMOTEENN
-![Smoteenn]()
+![Smoteenn](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png)
 
 ### Balanced Random Forest Classifier
-![BRF]()
+![BRF](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/BRF_ClassReport.png)
 
 ### Easy Ensemble AdaBoost Classifier
-
-![EEC]()
+![EEC](https://github.com/patrickryanpo/Credit_Risk_Analysis/blob/main/Resources/EEC_ClassReport.png)
 
 # Summary 
